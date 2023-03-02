@@ -2,6 +2,8 @@
 <p align="center">Hi! My name is Marianela and I am a full-stack development student currently enrolled in a remote software development school where I learn not only the technical fundamentals of programming but also the soft skills and collaboration techniques necessary to develop collaborative projects in multicultural remote teams.</p>
 <p align="center">You can check out my portfolio <a href="https://nelitaa.github.io/">here</a><img src="https://drive.google.com/uc?export=download&id=1EkbqFfZ8UhN4IvXxdm6YITbNFcQstMM2"/></p>
 
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Nelitaa" alt="nelitaa"></div>
+
 <h2><img src="https://drive.google.com/uc?export=download&id=11Omlp60LZBoV9Hi5WT5TEkD7l2p8Kz8C"/>About me...</h2>
 <div align="center">
   <img src="https://drive.google.com/uc?export=download&id=1L1Y2iwBJ-_mhOWUrvulLgNUB7Sc1qmpq"/>
