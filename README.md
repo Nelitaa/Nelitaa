@@ -6,7 +6,7 @@
 
 <h2><img src="https://drive.google.com/uc?export=download&id=11Omlp60LZBoV9Hi5WT5TEkD7l2p8Kz8C"/>About me...</h2>
 <div align="center">
-  <img src="https://drive.google.com/uc?export=download&id=1L1Y2iwBJ-_mhOWUrvulLgNUB7Sc1qmpq"/>
+  <img src="https://drive.google.com/file/d/1KcA-3oI90x8wv___RSpdlnAPutdMdmkZ/view?usp=sharing"/>
 </div>
 <h2><img src="https://drive.google.com/uc?export=download&id=1HhYXCAi7PUVI_CwGy5WSVz-WgYnOiCdo"/>Some stats</h2>
 <div align="center">
